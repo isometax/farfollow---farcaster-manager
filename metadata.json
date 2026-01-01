@@ -1,0 +1,5 @@
+{
+  "name": "FarFollow - Farcaster Manager",
+  "description": "A powerful dashboard for Farcaster users to identify non-reciprocal follows, manage their community, and get AI-powered insights on their social graph.",
+  "requestFramePermissions": []
+}
