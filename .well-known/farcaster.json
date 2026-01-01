@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOiA...", 
+    "payload": "eyJkb21haW4iOiA...",
+    "signature": "..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "FarFollow",
+    "iconUrl": "https://farfollow-farcaster-manager.vercel.app/icon.png",
+    "homeUrl": "https://farfollow-farcaster-manager.vercel.app",
+    "imageUrl": "https://farfollow-farcaster-manager.vercel.app/og-image.png",
+    "buttonTitle": "Launch FarFollow",
+    "splashImageUrl": "https://farfollow-farcaster-manager.vercel.app/splash.png",
+    "splashBackgroundColor": "#8a63d2"
+  }
+}
