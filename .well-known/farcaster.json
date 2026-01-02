@@ -1,16 +1,7 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjk0NDAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwIn0",
-    "payload": "eyJkb21haW4iOiJmYXJmb2xsb3ctZmFyY2FzdGVyLW1hbmFnZXIudmVyY2VsLmFwcCJ9",
-    "signature": "MHhkMDFl..." 
-  },
-  "frame": {
-    "version": "1",
-    "name": "FarFollow",
-    "iconUrl": "https://picsum.photos/seed/splash/200/200",
-    "homeUrl": "https://farfollow-farcaster-manager.vercel.app",
-    "imageUrl": "https://picsum.photos/seed/farfollow/600/300",
-    "buttonTitle": "Launch App",
-    "webhookUrl": "https://farfollow-farcaster-manager.vercel.app/api/webhook"
+    "header": "eyJmaWQiOjM4MzQ0NywidHlwZSI6ImF1dGgiLCJrZXkiOiIweDg4NTYxMUJjYTA5ZDAwYkJEMWQ5RjNCNWY5MDdBNkE4MGQwMzUxRWQifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItdmliZS1jaGVja2VyLnZlcmNlbC5hcHAifQ",
+    "signature": "ffi4e5IIdM0EX3bGTZ0DiQOVdiTJH4HJqA/Pbvv4PuMe1ahSM4XBtzb6EMjZoustAtJR4/q7M5P30G8sIkkQMxs="
   }
 }
